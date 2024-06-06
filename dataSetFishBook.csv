@@ -1,0 +1,178 @@
+ID,Tipo de Navio,Causa do Incidente,Condições Meteorológicas,Visibilidade,Localização,Número de Fatalidades de Vidas Marinhas,Tipo de Carga,Estado do Mar,Histórico de Manutenção
+1,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,50,Contêineres,Mar Revolto,Bom
+2,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,100,Petróleo,Mar Calmo,Bom
+3,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,20,Passageiros e Cargas Diversas,Mar Agitado,Regular
+4,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,0,Equipamentos de Pesquisa,Mar Calmo,Excelente
+5,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,30,Produtos Químicos,Mar Calmo,Bom
+6,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,40,Passageiros e Cargas Diversas,Mar Agitado,Regular
+7,Petroleiro,Vazamento de Óleo,Mar Tempestuoso,Alta,Golfo do México,120,Petróleo,Mar Revolto,Bom
+8,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,60,Contêineres,Mar Revolto,Bom
+9,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Atlântico,10,Equipamentos de Pesquisa,Mar Calmo,Bom
+10,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,25,Produtos Químicos,Mar Calmo,Regular
+11,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,15,Passageiros e Cargas Diversas,Mar Agitado,Regular
+12,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,70,Contêineres,Mar Revolto,Regular
+13,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,80,Petróleo,Mar Revolto,Bom
+14,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,50,Passageiros e Cargas Diversas,Mar Agitado,Regular
+15,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,35,Produtos Químicos,Mar Calmo,Bom
+16,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,5,Equipamentos de Pesquisa,Mar Calmo,Bom
+17,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,25,Passageiros e Cargas Diversas,Mar Agitado,Regular
+18,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,80,Contêineres,Mar Revolto,Regular
+19,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,90,Petróleo,Mar Revolto,Bom
+20,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,40,Produtos Químicos,Mar Calmo,Bom
+21,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,60,Passageiros e Cargas Diversas,Mar Agitado,Regular
+22,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,15,Equipamentos de Pesquisa,Mar Calmo,Bom
+23,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,90,Contêineres,Mar Revolto,Regular
+24,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,100,Petróleo,Mar Revolto,Bom
+25,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,45,Produtos Químicos,Mar Calmo,Bom
+26,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,75,Passageiros e Cargas Diversas,Mar Agitado,Regular
+27,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,100,Contêineres,Mar Revolto,Regular
+28,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,110,Petróleo,Mar Revolto,Bom
+29,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,70,Passageiros e Cargas Diversas,Mar Agitado,Regular
+30,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,50,Produtos Químicos,Mar Calmo,Bom
+31,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,25,Equipamentos de Pesquisa,Mar Calmo,Bom
+32,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,35,Passageiros e Cargas Diversas,Mar Agitado,Regular
+33,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,110,Contêineres,Mar Revolto,Regular
+34,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,120,Petróleo,Mar Revolto,Bom
+35,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,55,Produtos Químicos,Mar Calmo,Bom
+36,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,85,Passageiros e Cargas Diversas,Mar Agitado,Regular
+37,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,35,Equipamentos de Pesquisa,Mar Calmo,Bom
+38,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,120,Contêineres,Mar Revolto,Regular
+39,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,130,Petróleo,Mar Revolto,Bom
+40,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,80,Passageiros e Cargas Diversas,Mar Agitado,Regular
+41,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,60,Produtos Químicos,Mar Calmo,Bom
+42,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,45,Equipamentos de Pesquisa,Mar Calmo,Bom
+43,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,45,Passageiros e Cargas Diversas,Mar Agitado,Regular
+44,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,130,Contêineres,Mar Revolto,Regular
+45,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,140,Petróleo,Mar Revolto,Bom
+46,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,65,Produtos Químicos,Mar Calmo,Bom
+47,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,90,Passageiros e Cargas Diversas,Mar Agitado,Regular
+48,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,55,Equipamentos de Pesquisa,Mar Calmo,Bom
+49,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,140,Contêineres,Mar Revolto,Regular
+50,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,150,Petróleo,Mar Revolto,Bom
+51,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,95,Passageiros e Cargas Diversas,Mar Agitado,Regular
+52,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,70,Produtos Químicos,Mar Calmo,Bom
+53,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,65,Equipamentos de Pesquisa,Mar Calmo,Bom
+54,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,65,Passageiros e Cargas Diversas,Mar Agitado,Regular
+55,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,150,Contêineres,Mar Revolto,Regular
+56,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,160,Petróleo,Mar Revolto,Bom
+57,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,75,Produtos Químicos,Mar Calmo,Bom
+58,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,100,Passageiros e Cargas Diversas,Mar Agitado,Regular
+59,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,75,Equipamentos de Pesquisa,Mar Calmo,Bom
+60,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,160,Contêineres,Mar Revolto,Regular
+61,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,170,Petróleo,Mar Revolto,Bom
+62,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,105,Passageiros e Cargas Diversas,Mar Agitado,Regular
+63,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,80,Produtos Químicos,Mar Calmo,Bom
+64,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,85,Equipamentos de Pesquisa,Mar Calmo,Bom
+65,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,85,Passageiros e Cargas Diversas,Mar Agitado,Regular
+66,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,170,Contêineres,Mar Revolto,Regular
+67,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,180,Petróleo,Mar Revolto,Bom
+68,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,85,Produtos Químicos,Mar Calmo,Bom
+69,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,110,Passageiros e Cargas Diversas,Mar Agitado,Regular
+70,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,95,Equipamentos de Pesquisa,Mar Calmo,Bom
+71,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,180,Contêineres,Mar Revolto,Regular
+72,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,190,Petróleo,Mar Revolto,Bom
+73,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,115,Passageiros e Cargas Diversas,Mar Agitado,Regular
+74,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,90,Produtos Químicos,Mar Calmo,Bom
+75,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,105,Equipamentos de Pesquisa,Mar Calmo,Bom
+76,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,105,Passageiros e Cargas Diversas,Mar Agitado,Regular
+77,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,190,Contêineres,Mar Revolto,Regular
+78,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,200,Petróleo,Mar Revolto,Bom
+79,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,95,Produtos Químicos,Mar Calmo,Bom
+80,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,120,Passageiros e Cargas Diversas,Mar Agitado,Regular
+81,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,115,Equipamentos de Pesquisa,Mar Calmo,Bom
+82,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,200,Contêineres,Mar Revolto,Regular
+83,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,210,Petróleo,Mar Revolto,Bom
+84,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,125,Passageiros e Cargas Diversas,Mar Agitado,Regular
+85,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,100,Produtos Químicos,Mar Calmo,Bom
+86,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,125,Equipamentos de Pesquisa,Mar Calmo,Bom
+87,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,125,Passageiros e Cargas Diversas,Mar Agitado,Regular
+88,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,210,Contêineres,Mar Revolto,Regular
+89,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,220,Petróleo,Mar Revolto,Bom
+90,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,105,Produtos Químicos,Mar Calmo,Bom
+91,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,130,Passageiros e Cargas Diversas,Mar Agitado,Regular
+92,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,135,Equipamentos de Pesquisa,Mar Calmo,Bom
+93,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,220,Contêineres,Mar Revolto,Regular
+94,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,230,Petróleo,Mar Revolto,Bom
+95,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,135,Passageiros e Cargas Diversas,Mar Agitado,Regular
+96,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,110,Produtos Químicos,Mar Calmo,Bom
+97,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,145,Equipamentos de Pesquisa,Mar Calmo,Bom
+98,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,145,Passageiros e Cargas Diversas,Mar Agitado,Regular
+99,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,230,Contêineres,Mar Revolto,Regular
+100,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,240,Petróleo,Mar Revolto,Bom
+101,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,115,Produtos Químicos,Mar Calmo,Bom
+102,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,140,Passageiros e Cargas Diversas,Mar Agitado,Regular
+103,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,155,Equipamentos de Pesquisa,Mar Calmo,Bom
+104,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,240,Contêineres,Mar Revolto,Regular
+105,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,250,Petróleo,Mar Revolto,Bom
+106,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,145,Passageiros e Cargas Diversas,Mar Agitado,Regular
+107,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,120,Produtos Químicos,Mar Calmo,Bom
+108,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,165,Equipamentos de Pesquisa,Mar Calmo,Bom
+109,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,155,Passageiros e Cargas Diversas,Mar Agitado,Regular
+110,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,250,Contêineres,Mar Revolto,Regular
+111,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,260,Petróleo,Mar Revolto,Bom
+112,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,125,Produtos Químicos,Mar Calmo,Bom
+113,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,160,Passageiros e Cargas Diversas,Mar Agitado,Regular
+114,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,175,Equipamentos de Pesquisa,Mar Calmo,Bom
+115,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,260,Contêineres,Mar Revolto,Regular
+116,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,270,Petróleo,Mar Revolto,Bom
+117,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,165,Passageiros e Cargas Diversas,Mar Agitado,Regular
+118,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,130,Produtos Químicos,Mar Calmo,Bom
+119,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,185,Equipamentos de Pesquisa,Mar Calmo,Bom
+120,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,165,Passageiros e Cargas Diversas,Mar Agitado,Regular
+121,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,270,Contêineres,Mar Revolto,Regular
+122,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,280,Petróleo,Mar Revolto,Bom
+123,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,135,Produtos Químicos,Mar Calmo,Bom
+124,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,170,Passageiros e Cargas Diversas,Mar Agitado,Regular
+125,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,195,Equipamentos de Pesquisa,Mar Calmo,Bom
+126,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,280,Contêineres,Mar Revolto,Regular
+127,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,290,Petróleo,Mar Revolto,Bom
+128,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,175,Passageiros e Cargas Diversas,Mar Agitado,Regular
+129,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,140,Produtos Químicos,Mar Calmo,Bom
+130,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,205,Equipamentos de Pesquisa,Mar Calmo,Bom
+131,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,185,Passageiros e Cargas Diversas,Mar Agitado,Regular
+132,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,290,Contêineres,Mar Revolto,Regular
+133,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,300,Petróleo,Mar Revolto,Bom
+134,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,145,Produtos Químicos,Mar Calmo,Bom
+135,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,180,Passageiros e Cargas Diversas,Mar Agitado,Regular
+136,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,215,Equipamentos de Pesquisa,Mar Calmo,Bom
+137,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,300,Contêineres,Mar Revolto,Regular
+138,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,310,Petróleo,Mar Revolto,Bom
+139,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,195,Passageiros e Cargas Diversas,Mar Agitado,Regular
+140,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,150,Produtos Químicos,Mar Calmo,Bom
+141,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,225,Equipamentos de Pesquisa,Mar Calmo,Bom
+142,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,195,Passageiros e Cargas Diversas,Mar Agitado,Regular
+143,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,310,Contêineres,Mar Revolto,Regular
+144,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,320,Petróleo,Mar Revolto,Bom
+145,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,155,Produtos Químicos,Mar Calmo,Bom
+146,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,200,Passageiros e Cargas Diversas,Mar Agitado,Regular
+147,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,235,Equipamentos de Pesquisa,Mar Calmo,Bom
+148,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,320,Contêineres,Mar Revolto,Regular
+149,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,330,Petróleo,Mar Revolto,Bom
+150,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,205,Passageiros e Cargas Diversas,Mar Agitado,Regular
+151,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,160,Produtos Químicos,Mar Calmo,Bom
+152,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,245,Equipamentos de Pesquisa,Mar Calmo,Bom
+153,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,205,Passageiros e Cargas Diversas,Mar Agitado
+154,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,50,Contêineres,Mar Revolto,Bom
+155,Petroleiro,Vazamento de Óleo,Tempestade,Baixa,Golfo do México,100,Petróleo,Mar Revolto,Bom
+156,Navio de Passageiros,Encalhe,Tempestade,Baixa,Costa do Japão,20,Passageiros,Mar Agitado,Regular
+157,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,0,Equipamentos de Pesquisa,Mar Calmo,Excelente
+158,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,30,Produtos Químicos,Mar Calmo,Bom
+159,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,40,Passageiros e Cargas,Mar Agitado,Regular
+160,Petroleiro,Vazamento de Óleo,Mar Tempestuoso,Alta,Golfo do México,120,Petróleo,Mar Revolto,Bom
+161,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,60,Contêineres,Mar Revolto,Bom
+162,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Atlântico,10,Equipamentos de Pesquisa,Mar Calmo,Bom
+163,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,25,Produtos Químicos,Mar Calmo,Regular
+164,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,15,Passageiros e Cargas,Mar Agitado,Regular
+165,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,70,Contêineres,Mar Revolto,Regular
+166,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,80,Petróleo,Mar Revolto,Bom
+167,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,50,Passageiros e Cargas,Mar Agitado,Regular
+168,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,35,Produtos Químicos,Mar Calmo,Bom
+169,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,5,Equipamentos de Pesquisa,Mar Calmo,Bom
+170,Navio de Passageiros,Encalhe,Tempestade,Média,Costa do Japão,25,Passageiros,Mar Agitado,Regular
+171,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,80,Contêineres,Mar Revolto,Regular
+172,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,90,Petróleo,Mar Revolto,Bom
+173,Navio de Carga,Incêndio,Tempo Ensolarado,Alta,Mar Mediterrâneo,40,Produtos Químicos,Mar Calmo,Bom
+174,Navio de Passageiros,Encalhe,Mar Tempestuoso,Média,Costa do Japão,60,Passageiros e Cargas,Mar Agitado,Regular
+175,Navio de Pesquisa,Falha Mecânica,Condições Normais,Alta,Oceano Pacífico,15,Equipamentos de Pesquisa,Mar Calmo,Bom
+176,Cargueiro,Colisão,Nevoeiro,Baixa,Mar do Norte,90,Contêineres,Mar Revolto,Regular
+177,Petroleiro,Vazamento de Óleo,Mar Calmo,Alta,Golfo do México,100,Petróleo,Mar
