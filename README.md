@@ -1,8 +1,8 @@
 # FishBook
-    Camila Soares Pedra RM98246
-    Gustavo Bertti RM552243
-    Gustavo Macedo da Silva RM552333
-    Rafael da Silva Camargo RM551127  
+    Camila Soares Pedra RM98246 Turma: 2TDSA
+    Gustavo Bertti RM552243 Turma: 2TDSB
+    Gustavo Macedo da Silva RM552333 Turma: 2TDSB
+    Rafael da Silva Camargo RM551127  Turma: 2TDSA  
 
 ## Desenvolvimento de Modelos Preditivos Usando Técnicas de Machine Learning para Prever Condições Ambientais Marítimas
 
