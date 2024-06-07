@@ -4,6 +4,9 @@
     Gustavo Macedo da Silva RM552333 Turma: 2TDSB
     Rafael da Silva Camargo RM551127  Turma: 2TDSA  
 
+## Vídeo Pitch
+https://www.youtube.com/watch?v=brlNuPfC4k8
+
 ## Desenvolvimento de Modelos Preditivos Usando Técnicas de Machine Learning para Prever Condições Ambientais Marítimas
 
 ### Introdução
