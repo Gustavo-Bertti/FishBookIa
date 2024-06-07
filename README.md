@@ -7,6 +7,9 @@
 ## Vídeo Pitch
 https://www.youtube.com/watch?v=brlNuPfC4k8
 
+
+
+
 ## Desenvolvimento de Modelos Preditivos Usando Técnicas de Machine Learning para Prever Condições Ambientais Marítimas
 
 ### Introdução
